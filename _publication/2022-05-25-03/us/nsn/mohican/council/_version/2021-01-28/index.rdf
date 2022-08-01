@@ -1,7 +1,0 @@
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/index.html">
-    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/index.html"/>
-    <rdfs:label xml:lang="en">Stockbridge-Munsee Tribal Law Library</rdfs:label>
-    <oll:hasPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
-  </rdf:Description>
-</rdf:RDF>
