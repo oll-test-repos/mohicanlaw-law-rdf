@@ -1,0 +1,17 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/resolutions/2002/045-02">
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-09-18</oll:dateEffective>
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Resolution"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 045-02</rdfs:label>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+    <rdfs:label xml:lang="en">Resolution No. 045-02 — Land</rdfs:label>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-08-20</oll:dateAdopted>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <oll:number>045-02</oll:number>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+    <dcterms:title xml:lang="en">Resolution No. 045-02 — Land</dcterms:title>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2002/045-02"/>
+  </rdf:Description>
+</rdf:RDF>
