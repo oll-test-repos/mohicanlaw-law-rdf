@@ -1,0 +1,44 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/charter/">
+    <dcterms:tableOfContents>
+ARTICLE I — CORPORATE IDENTITY AND STATUS
+ARTICLE II — PRINCIPAL OFFICE
+ARTICLE III — OWNERSHIP OF THE CORPORATION
+ARTICLE IV — PERIOD OF DURATION
+ARTICLE V — CORPORATION PURPOSES
+ARTICLE VI — CORPORATION POWERS
+ARTICLE VII — LIMITATIONS ON CORPORATE POWERS
+ARTICLE VIII — SHAREHOLDER ACTION
+ARTICLE IX — BOARD OF DIRECTORS MEMBERSHIP, QUALIFICATIONS, TERMS, REMOVAL AND VACANCIES
+ARTICLE X — AUTHORITY OF THE BOARD OF DIRECTORS
+ARTICLE XI — DISQUALIFICATION OF OFFICERS OR DIRECTORS
+ARTICLE XII — MEETINGS OF THE BOARD OF DIRECTORS
+ARTICLE XIII — EXECUTIVE AND OTHER COMMITTEES
+ARTICLE XIV — OFFICERS
+ARTICLE XV — INDEMNIFICATION
+ARTICLE XVI — DIVIDEND PAYMENTS
+ARTICLE XVII — FUNDS AND ACCOUNTING
+ARTICLE XVIII — SOVEREIGN IMMUNITY
+ARTICLE XIX — AMENDMENTS
+</dcterms:tableOfContents>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/PL_106-216.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/charter/"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/adopted/charter.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/adopted/charter.pdf"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1533-95.pdf"/>
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Charter"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1996/adopted/047-96.pdf"/>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-06-21</oll:dateEffective>
+    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Federal Corporate Charter</rdfs:label>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/PL_106-216.pdf"/>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1996/adopted/047-96.pdf"/>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1533-95.pdf"/>
+    <rdfs:label xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</rdfs:label>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <dcterms:title xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</dcterms:title>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+  </rdf:Description>
+</rdf:RDF>

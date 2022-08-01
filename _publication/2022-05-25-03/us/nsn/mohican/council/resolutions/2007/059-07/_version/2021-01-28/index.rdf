@@ -1,0 +1,20 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/resolutions/2007/059-07">
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <rdfs:label xml:lang="en">Resolution No. 059-07 — Communicable Disease, Vaccination, and Quarantine</rdfs:label>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 059-07</rdfs:label>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2007/BIA/059-07.pdf"/>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2007/adopted/059-07.pdf"/>
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Resolution"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2007/BIA/059-07.pdf"/>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-04-16</oll:dateAdopted>
+    <dcterms:title xml:lang="en">Resolution No. 059-07 — Communicable Disease, Vaccination, and Quarantine</dcterms:title>
+    <oll:number>059-07</oll:number>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2007/adopted/059-07.pdf"/>
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2007/059-07"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+  </rdf:Description>
+</rdf:RDF>
