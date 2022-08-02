@@ -1,0 +1,19 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/resolutions/2018/026-18">
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+    <oll:number>026-18</oll:number>
+    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 026-18</rdfs:label>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateEffective>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-03-06</oll:dateAdopted>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2018/adopted/026-18.pdf"/>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2018/adopted/026-18.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2018/026-18"/>
+    <rdfs:label xml:lang="en">Resolution No. 026-18 — Tax</rdfs:label>
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Resolution"/>
+    <dcterms:title xml:lang="en">Resolution No. 026-18 — Tax</dcterms:title>
+  </rdf:Description>
+</rdf:RDF>
