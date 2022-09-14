@@ -1,16 +1,16 @@
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/resolutions/1989/1128">
-    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1128</rdfs:label>
-    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
-    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
-    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/1989/1128"/>
-    <dcterms:title xml:lang="en">Resolution No. 1128 — Air Pollution Control</dcterms:title>
-    <oll:number>1128</oll:number>
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
-    <rdfs:label xml:lang="en">Resolution No. 1128 — Air Pollution Control</rdfs:label>
-    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-02-07</oll:dateAdopted>
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Resolution"/>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+    <oll:number>1128</oll:number>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1128</rdfs:label>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-02-07</oll:dateAdopted>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/1989/1128"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 1128 — Air Pollution Control</dcterms:title>
+    <rdfs:label xml:lang="en">Resolution No. 1128 — Air Pollution Control</rdfs:label>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
   </rdf:Description>
 </rdf:RDF>
