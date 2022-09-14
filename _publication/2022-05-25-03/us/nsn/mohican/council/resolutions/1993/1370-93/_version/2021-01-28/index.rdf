@@ -1,16 +1,16 @@
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/resolutions/1993/1370-93">
-    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-06-01</oll:dateAdopted>
-    <dcterms:title xml:lang="en">Resolution No. 1370-93 — Gaming</dcterms:title>
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
-    <rdfs:label xml:lang="en">Resolution No. 1370-93 — Gaming</rdfs:label>
-    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1370-93</rdfs:label>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/1993/1370-93"/>
+    <oll:number>1370-93</oll:number>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
-    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
-    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1370-93</rdfs:label>
-    <oll:number>1370-93</oll:number>
-    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/1993/1370-93"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-06-01</oll:dateAdopted>
+    <dcterms:title xml:lang="en">Resolution No. 1370-93 — Gaming</dcterms:title>
+    <rdfs:label xml:lang="en">Resolution No. 1370-93 — Gaming</rdfs:label>
   </rdf:Description>
 </rdf:RDF>
