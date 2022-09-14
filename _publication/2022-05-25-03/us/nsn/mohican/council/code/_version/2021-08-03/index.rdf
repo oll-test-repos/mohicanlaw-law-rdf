@@ -1,12 +1,16 @@
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-08-03/us/nsn/mohican/council/code">
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
-    <rdfs:label xml:lang="en">[2021-08-03]: Stockbridge-Munsee Tribal Code</rdfs:label>
-    <rdfs:label xml:lang="en">Stockbridge-Munsee Tribal Code.</rdfs:label>
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Code"/>
-    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
-    <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Code.</dcterms:title>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/"/>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/code"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-03</oll:dateCurrentThrough>
+    <rdfs:label xml:lang="en">Stockbridge-Munsee Tribal Code.</rdfs:label>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+    <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Code.</dcterms:title>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <rdfs:label xml:lang="en">[2021-08-03]: Stockbridge-Munsee Tribal Code</rdfs:label>
     <dcterms:tableOfContents>
 Title GOV — Government(§§ GOV.01.01 – GOV.04.05)
 Title ADM — Government Administration(§§ ADM.01.01 – ADM.03.12)
@@ -27,9 +31,5 @@ Title TAX — Tax
 Attachments
 </dcterms:tableOfContents>
     <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2021/042-21"/>
-    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-03</oll:dateCurrentThrough>
-    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
-    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/code"/>
-    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/"/>
   </rdf:Description>
 </rdf:RDF>

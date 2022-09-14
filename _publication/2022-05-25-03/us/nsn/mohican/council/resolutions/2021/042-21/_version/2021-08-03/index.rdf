@@ -1,19 +1,19 @@
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/ontologies/oll.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-08-03/us/nsn/mohican/council/resolutions/2021/042-21">
-    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/"/>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-03</oll:dateEffective>
-    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-03</oll:dateAdopted>
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#Resolution"/>
-    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2021/adopted/042-21.pdf"/>
-    <rdf:type rdf:resource="http://www.open.law/ontologies/oll.owl#DocumentVersion"/>
-    <rdfs:label xml:lang="en">[2021-08-03]: Stockbridge-Munsee Tribal Council Res. No. 042-21</rdfs:label>
-    <dcterms:title xml:lang="en">Resolution No. 042-21 — Fish and Wildlife</dcterms:title>
-    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2021/adopted/042-21.pdf"/>
     <oll:number>042-21</oll:number>
-    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2021/042-21"/>
-    <rdfs:label xml:lang="en">Resolution No. 042-21 — Fish and Wildlife</rdfs:label>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-03</oll:dateAdopted>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2021/adopted/042-21.pdf"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2021-08-03]: Stockbridge-Munsee Tribal Council Res. No. 042-21</rdfs:label>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2021/adopted/042-21.pdf"/>
+    <rdfs:label xml:lang="en">Resolution No. 042-21 — Fish and Wildlife</rdfs:label>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <dcterms:title xml:lang="en">Resolution No. 042-21 — Fish and Wildlife</dcterms:title>
   </rdf:Description>
 </rdf:RDF>
