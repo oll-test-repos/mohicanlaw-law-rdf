@@ -1,0 +1,32 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed"
+    },
+    "/us/nsn/mohican/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed"
+    },
+    "/us/nsn/mohican/council/resolutions/2021": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed"
+    },
+    "/us/nsn/mohican/council/resolutions/2021/021-21": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 021-21",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added"
+    }
+  }
+}
