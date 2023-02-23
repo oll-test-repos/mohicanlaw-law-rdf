@@ -1,0 +1,39 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23/_date/2021-01-28/us/nsn/mohican/council/charter/">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/adopted/charter.pdf"/>
+  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/charter/"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/PL_106-216.pdf"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1533-95.pdf"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1996/adopted/047-96.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+ARTICLE I — CORPORATE IDENTITY AND STATUS
+ARTICLE II — PRINCIPAL OFFICE
+ARTICLE III — OWNERSHIP OF THE CORPORATION
+ARTICLE IV — PERIOD OF DURATION
+ARTICLE V — CORPORATION PURPOSES
+ARTICLE VI — CORPORATION POWERS
+ARTICLE VII — LIMITATIONS ON CORPORATE POWERS
+ARTICLE VIII — SHAREHOLDER ACTION
+ARTICLE IX — BOARD OF DIRECTORS MEMBERSHIP, QUALIFICATIONS, TERMS, REMOVAL AND VACANCIES
+ARTICLE X — AUTHORITY OF THE BOARD OF DIRECTORS
+ARTICLE XI — DISQUALIFICATION OF OFFICERS OR DIRECTORS
+ARTICLE XII — MEETINGS OF THE BOARD OF DIRECTORS
+ARTICLE XIII — EXECUTIVE AND OTHER COMMITTEES
+ARTICLE XIV — OFFICERS
+ARTICLE XV — INDEMNIFICATION
+ARTICLE XVI — DIVIDEND PAYMENTS
+ARTICLE XVII — FUNDS AND ACCOUNTING
+ARTICLE XVIII — SOVEREIGN IMMUNITY
+ARTICLE XIX — AMENDMENTS
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2023-02-23/2021-01-28]: Stockbridge-Munsee Federal Corporate Charter</rdfs:label>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-06-21</oll:dateEffective>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23"/>
+    </rdf:Description>
+</rdf:RDF>
