@@ -2,12 +2,12 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-12-14/_date/2021-01-28/us/nsn/mohican/council/constitution">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-12-14</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
-  <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/adopted/const.pdf"/>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/adopted/const.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/constitution"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/amendments/amendment_I.pdf"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/notices/election_notice_1995.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <dcterms:tableOfContents>
+  <dcterms:tableOfContents>
 CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY(§§ 1 – 4)
 BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY(§§ 1 – 5)
 </dcterms:tableOfContents>

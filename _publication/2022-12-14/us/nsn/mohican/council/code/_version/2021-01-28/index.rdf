@@ -4,7 +4,7 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/code"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-  <dcterms:tableOfContents>
+    <dcterms:tableOfContents>
 Title GOV — Government(§§ GOV.01.01 – GOV.04.05)
 Title ADM — Government Administration(§§ ADM.01.01 – ADM.02.05)
 Title MEM — Tribal Membership(§§ MEM.01.01 – MEM.01.09)
@@ -30,5 +30,5 @@ Attachments
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateCurrentThrough>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/resolutions/2020/031-20"/>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

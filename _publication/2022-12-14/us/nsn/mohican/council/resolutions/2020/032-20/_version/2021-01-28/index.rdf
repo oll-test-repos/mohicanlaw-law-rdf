@@ -5,7 +5,7 @@
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2020/adopted/032-20.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/resolutions/2020/032-20"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <dcterms:title xml:lang="en">Resolution No. 032-20 — Mohican Land Use Code</dcterms:title>
+  <dcterms:title xml:lang="en">Resolution No. 032-20 — Mohican Land Use Code</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 032-20</rdfs:label>
@@ -13,5 +13,5 @@
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-01-21</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>032-20</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>
