@@ -1,25 +1,21 @@
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/constitution">
-    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/notices/election_notice_1995.pdf"/>
-    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/adopted/const.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/constitution"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/amendments/amendment_I.pdf"/>
-    <dcterms:title xml:lang="en">Constitution and By-Laws of the Stockbridge-Munsee Community</dcterms:title>
-    <rdfs:label xml:lang="en">[2021-01-28]: Stockbridge-Munsee Constitution and By-laws</rdfs:label>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/notices/election_notice_1995.pdf"/>
-    <dcterms:tableOfContents>
-CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY
-BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY
-</dcterms:tableOfContents>
-    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
-    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/adopted/const.pdf"/>
-    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
-    <rdf:type rdf:resource="http://www.open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
-    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-18</oll:dateEffective>
-    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
-    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/adopted/const.pdf"/>
-    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/amendments/amendment_I.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <rdfs:label xml:lang="en">Constitution and By-Laws of the Stockbridge-Munsee Community</rdfs:label>
-  </rdf:Description>
+    <dcterms:tableOfContents>
+CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY(§§ 1 – 4)
+BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY(§§ 1 – 5)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Constitution and By-Laws of the Stockbridge-Munsee Community</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+  <rdfs:label xml:lang="en">[2022-05-25-03/2021-01-28]: Stockbridge-Munsee Constitution and By-laws</rdfs:label>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-18</oll:dateEffective>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+    </rdf:Description>
 </rdf:RDF>
