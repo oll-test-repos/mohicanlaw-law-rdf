@@ -7,11 +7,11 @@
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2012/BIA/017-12.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 017-12 — Gaming</dcterms:title>
-  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 017-12</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-30</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>017-12</oll:number>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

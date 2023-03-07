@@ -11,6 +11,6 @@
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 021-06</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-02-07</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
-  <oll:number>021-06</oll:number>
-    </rdf:Description>
+    <oll:number>021-06</oll:number>
+  </rdf:Description>
 </rdf:RDF>
