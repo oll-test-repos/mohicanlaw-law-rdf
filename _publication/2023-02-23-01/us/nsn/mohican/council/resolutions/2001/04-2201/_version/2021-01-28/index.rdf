@@ -9,8 +9,8 @@
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2023-02-23-01/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 04-2201</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-02-14</oll:dateAdopted>
-    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-05-25</oll:dateEffective>
+  <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-05-25</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>
-  <oll:number>04-2201</oll:number>
+    <oll:number>04-2201</oll:number>
     </rdf:Description>
 </rdf:RDF>

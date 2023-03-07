@@ -9,10 +9,10 @@
     <dcterms:title xml:lang="en">Resolution No. 014-19 — Revenue Allocation Plan</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-    <rdfs:label xml:lang="en">[2023-02-23-01/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 014-19</rdfs:label>
+  <rdfs:label xml:lang="en">[2023-02-23-01/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 014-19</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-11-06</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-03-13</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>
     <oll:number>014-19</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>

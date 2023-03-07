@@ -5,8 +5,8 @@
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2012/adopted/049-12.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/2012/049-12"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2012/BIA/049-12.pdf"/>
-  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <dcterms:title xml:lang="en">Resolution No. 049-12 — Election</dcterms:title>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+  <dcterms:title xml:lang="en">Resolution No. 049-12 — Election</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2023-02-23-01/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 049-12</rdfs:label>
