@@ -1,0 +1,34 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-01/_date/2021-05-27/us/nsn/mohican/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title GOV — Government(§§ GOV.01.01 – GOV.04.05)
+Title ADM — Government Administration(§§ ADM.01.01 – ADM.03.12)
+Title MEM — Tribal Membership(§§ MEM.01.01 – MEM.01.09)
+Title TCT — Tribal Court(§§ TCT.01.01 – TCT.06.05)
+Title YAE — Youth And Elders(§§ YAE.01.01 – YAE.11.26)
+Title EDU — Education(§§ EDU.01.01 – EDU.02.16)
+Title DMR — Domestic Relations(§§ DMR.01.01 – DMR.04.06)
+Title EMP — Employment(§§ EMP.01.01 – EMP.05.09)
+Title PRP — Property(§§ PRP.01.01 – PRP.05.53)
+Title ENV — Environment(§§ ENV.01.01 – ENV.06.21)
+Title GMG — Gaming(§§ GMG.01.01 – GMG.02.12)
+Title SAF — Safety And Public Health(§§ SAF.01.01 – SAF.06.12)
+Title UTL — Utilities And Public Improvements(§§ UTL.01.01 – UTL.01.24)
+Title VEH — Vehicles, Roads And Traffic(§§ VEH.01.01 – VEH.02.10)
+Title BUS — Business(§§ BUS.01.01 – BUS.05.05)
+Title TAX — Tax(§§ TAX.01.01 – TAX.01.25)
+Attachments
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Code.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2023-02-23-01/2021-05-27]: Stockbridge-Munsee Tribal Code</rdfs:label>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-05-27</oll:dateCurrentThrough>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/2021/032-21"/>
+    </rdf:Description>
+</rdf:RDF>
