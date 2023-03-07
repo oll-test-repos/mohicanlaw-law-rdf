@@ -2,8 +2,8 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-02/_date/2021-01-28/us/nsn/mohican/council/resolutions/1979/0663">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
-    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/1979/0663"/>
-  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/1979/0663"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 0663 — Land</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>

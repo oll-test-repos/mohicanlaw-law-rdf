@@ -24,11 +24,11 @@ Title TAX — Tax(§§ TAX.01.01 – TAX.01.25)
 Attachments
 </dcterms:tableOfContents>
     <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Code.</dcterms:title>
-  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2023-02-23-02/2021-01-28]: Stockbridge-Munsee Tribal Code</rdfs:label>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateCurrentThrough>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
-    <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/2020/031-20"/>
+  <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/2020/031-20"/>
     </rdf:Description>
 </rdf:RDF>

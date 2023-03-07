@@ -6,7 +6,7 @@
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/constitution"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/amendments/amendment_I.pdf"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/notices/election_notice_1995.pdf"/>
-  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:tableOfContents>
 CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY(§§ 1 – 4)
 BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY(§§ 1 – 5)
@@ -17,5 +17,5 @@ BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY(§§ 1 – 5)
     <rdfs:label xml:lang="en">[2023-02-23-02/2021-01-28]: Stockbridge-Munsee Constitution and By-laws</rdfs:label>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-18</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>
