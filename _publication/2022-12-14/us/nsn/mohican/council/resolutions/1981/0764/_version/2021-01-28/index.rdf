@@ -5,10 +5,10 @@
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/resolutions/1981/0764"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 0764 — Youth Code</dcterms:title>
-  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 0764</rdfs:label>
-    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-08-08</oll:dateAdopted>
+  <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-08-08</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>0764</oll:number>
     </rdf:Description>

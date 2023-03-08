@@ -3,12 +3,12 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-12-14</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/resolutions/2011/060-11"/>
-  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 060-11 — Revenue Allocation Plan</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 060-11</rdfs:label>
-    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-09-20</oll:dateAdopted>
+  <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-09-20</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>060-11</oll:number>
     </rdf:Description>

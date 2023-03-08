@@ -8,8 +8,8 @@
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 058-09</rdfs:label>
-    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-02</oll:dateAdopted>
-  <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-16</oll:dateEffective>
+  <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-02</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-06-16</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>058-09</oll:number>
     </rdf:Description>
