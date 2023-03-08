@@ -1,15 +1,15 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-12-13/_date/2021-01-28/us/nsn/mohican/council/resolutions/2000/04-2000">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-12-13</dcterms:available>
-    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Wisconsin</dcterms:creator>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-12-13/us/nsn/mohican/council/resolutions/2000/04-2000"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 04-2000 — Tobacco</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-  <rdfs:label xml:lang="en">[2022-12-13/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 04-2000</rdfs:label>
+    <rdfs:label xml:lang="en">[2022-12-13/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 04-2000</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-01-20</oll:dateAdopted>
-    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-02-02</oll:dateEffective>
+  <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-02-02</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-13"/>
     <oll:number>04-2000</oll:number>
     </rdf:Description>
