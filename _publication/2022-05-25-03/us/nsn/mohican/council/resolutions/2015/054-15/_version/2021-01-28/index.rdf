@@ -4,7 +4,7 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2015/adopted/054-15.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2015/054-15"/>
-    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2015/BIA/054-15.pdf"/>
+  <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2015/BIA/054-15.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 054-15 — Exclusion</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
@@ -13,6 +13,6 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-07</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-07-15</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
-  <oll:number>054-15</oll:number>
+    <oll:number>054-15</oll:number>
     </rdf:Description>
 </rdf:RDF>
