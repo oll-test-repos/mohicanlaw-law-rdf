@@ -2,11 +2,11 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-01/_date/2021-01-28/us/nsn/mohican/council/resolutions/1981/0766-1">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
-  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/1981/0766-1"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/1981/0766-1"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 0766-1 — Forest Resources</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
-    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2023-02-23-01/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 0766-1</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1981-08-08</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>

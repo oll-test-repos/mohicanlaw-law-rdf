@@ -4,8 +4,8 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/1987/1026"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-  <dcterms:title xml:lang="en">Resolution No. 1026 — Forest Resources</dcterms:title>
-    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <dcterms:title xml:lang="en">Resolution No. 1026 — Forest Resources</dcterms:title>
+  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2023-02-23-01/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1026</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987-06-16</oll:dateAdopted>

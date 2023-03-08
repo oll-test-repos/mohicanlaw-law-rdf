@@ -4,7 +4,7 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1999/adopted/02-99.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/1999/02-99"/>
-  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 02-99 — Change Of Name</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
@@ -12,6 +12,6 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-01-12</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-02-26</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>
-    <oll:number>02-99</oll:number>
+  <oll:number>02-99</oll:number>
     </rdf:Description>
 </rdf:RDF>
