@@ -3,7 +3,7 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/2005/020-05"/>
-    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 020-05 — All Terrain Vehicle Safety</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
@@ -11,5 +11,5 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-04-05</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
     <oll:number>020-05</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>

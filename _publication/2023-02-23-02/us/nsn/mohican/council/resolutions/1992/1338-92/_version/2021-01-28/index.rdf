@@ -2,7 +2,7 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-02/_date/2021-01-28/us/nsn/mohican/council/resolutions/1992/1338-92">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
-  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/1992/1338-92"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/1992/1338-92"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 1338-92 — Gaming</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
@@ -11,5 +11,5 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-11-03</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
     <oll:number>1338-92</oll:number>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

@@ -3,13 +3,13 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2016/adopted/038-16.pdf"/>
-  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/2016/038-16"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/2016/038-16"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2016/BIA/038-16.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 038-16 — Tribal Court Code</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-    <rdfs:label xml:lang="en">[2023-02-23-02/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 038-16</rdfs:label>
+  <rdfs:label xml:lang="en">[2023-02-23-02/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 038-16</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-15</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-08-03</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
