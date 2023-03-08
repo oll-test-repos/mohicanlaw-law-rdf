@@ -3,7 +3,7 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/resolutions/1999/054-99"/>
-    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 054-99 — Election</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
@@ -11,6 +11,6 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-08-17</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1999-11-01</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23"/>
-  <oll:number>054-99</oll:number>
+    <oll:number>054-99</oll:number>
     </rdf:Description>
 </rdf:RDF>

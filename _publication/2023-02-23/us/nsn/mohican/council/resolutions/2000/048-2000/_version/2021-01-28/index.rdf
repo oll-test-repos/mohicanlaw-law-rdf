@@ -4,10 +4,10 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/resolutions/2000/048-2000"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-  <dcterms:title xml:lang="en">Resolution No. 048-2000 — All Terrain Vehicle Safety</dcterms:title>
+    <dcterms:title xml:lang="en">Resolution No. 048-2000 — All Terrain Vehicle Safety</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-    <rdfs:label xml:lang="en">[2023-02-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 048-2000</rdfs:label>
+  <rdfs:label xml:lang="en">[2023-02-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 048-2000</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-08-08</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-08-23</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23"/>
