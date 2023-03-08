@@ -4,13 +4,13 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/resolutions/2002/071-02"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-  <dcterms:title xml:lang="en">Resolution No. 071-02 — Elder/Youth License</dcterms:title>
+    <dcterms:title xml:lang="en">Resolution No. 071-02 — Elder/Youth License</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 071-02</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-11-19</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-12-31</oll:dateEffective>
-    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
+  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>071-02</oll:number>
     </rdf:Description>
 </rdf:RDF>

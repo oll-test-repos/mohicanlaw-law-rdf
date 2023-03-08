@@ -5,6 +5,6 @@
     <dcterms:title xml:lang="en">BIA Approval for Res. No. 014-19</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
     <rdfs:label xml:lang="en">BIA Approval for Res. No. 014-19</rdfs:label>
-    <oll:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://law.mohican.com/us/nsn/mohican/council/resolutions/2019/BIA/014-19.pdf</oll:url>
-  </rdf:Description>
+  <oll:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://law.mohican.com/us/nsn/mohican/council/resolutions/2019/BIA/014-19.pdf</oll:url>
+    </rdf:Description>
 </rdf:RDF>

@@ -7,9 +7,9 @@
     <dcterms:title xml:lang="en">Resolution No. 1560-95 — Civil Procedure</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-  <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1560-95</rdfs:label>
+    <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1560-95</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-12-27</oll:dateAdopted>
-    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
+  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>1560-95</oll:number>
     </rdf:Description>
 </rdf:RDF>

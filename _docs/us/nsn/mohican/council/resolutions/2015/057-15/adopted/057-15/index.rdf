@@ -4,7 +4,7 @@
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Council Res. No. 057-15</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
-  <rdfs:label xml:lang="en">Stockbridge-Munsee Tribal Council Res. No. 057-15</rdfs:label>
+    <rdfs:label xml:lang="en">Stockbridge-Munsee Tribal Council Res. No. 057-15</rdfs:label>
     <oll:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://law.mohican.com/us/nsn/mohican/council/resolutions/2015/adopted/057-15.pdf</oll:url>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

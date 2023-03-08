@@ -8,7 +8,7 @@
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1533-95.pdf"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1996/adopted/047-96.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-  <dcterms:tableOfContents>
+    <dcterms:tableOfContents>
 ARTICLE I — CORPORATE IDENTITY AND STATUS
 ARTICLE II — PRINCIPAL OFFICE
 ARTICLE III — OWNERSHIP OF THE CORPORATION
@@ -30,7 +30,7 @@ ARTICLE XVIII — SOVEREIGN IMMUNITY
 ARTICLE XIX — AMENDMENTS
 </dcterms:tableOfContents>
     <dcterms:title xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</dcterms:title>
-    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
+  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Federal Corporate Charter</rdfs:label>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-06-21</oll:dateEffective>
