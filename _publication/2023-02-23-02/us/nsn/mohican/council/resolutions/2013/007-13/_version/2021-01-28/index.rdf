@@ -9,7 +9,7 @@
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2023-02-23-02/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 007-13</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-10-23</oll:dateAdopted>
-  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
-    <oll:number>007-13</oll:number>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
+  <oll:number>007-13</oll:number>
     </rdf:Description>
 </rdf:RDF>

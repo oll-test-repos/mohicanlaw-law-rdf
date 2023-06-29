@@ -10,7 +10,7 @@
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 09-2000</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-03-21</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2000-03-29</oll:dateEffective>
-  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>09-2000</oll:number>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

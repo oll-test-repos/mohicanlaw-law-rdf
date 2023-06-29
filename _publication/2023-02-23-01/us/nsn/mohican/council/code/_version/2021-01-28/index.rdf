@@ -2,7 +2,7 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-01/_date/2021-01-28/us/nsn/mohican/council/code">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
-    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/code"/>
+  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/code"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:tableOfContents>
 Title GOV — Government(§§ GOV.01.01 – GOV.04.05)
@@ -24,7 +24,7 @@ Title TAX — Tax(§§ TAX.01.01 – TAX.01.25)
 Attachments
 </dcterms:tableOfContents>
     <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Code.</dcterms:title>
-  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2023-02-23-01/2021-01-28]: Stockbridge-Munsee Tribal Code</rdfs:label>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateCurrentThrough>

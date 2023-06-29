@@ -3,8 +3,8 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2016/adopted/029-16.pdf"/>
-  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2016/029-16"/>
-    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2016/BIA/029-16.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/2016/029-16"/>
+  <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2016/BIA/029-16.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 029-16 — Gaming</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>

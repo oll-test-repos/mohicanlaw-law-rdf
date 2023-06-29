@@ -5,7 +5,7 @@
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2019/adopted/062-19.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/resolutions/2019/062-19"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <dcterms:title xml:lang="en">Resolution No. 062-19 — Stockbridge-Munsee Flag</dcterms:title>
+  <dcterms:title xml:lang="en">Resolution No. 062-19 — Stockbridge-Munsee Flag</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2023-02-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 062-19</rdfs:label>
@@ -13,5 +13,5 @@
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23"/>
     <oll:number>062-19</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>

@@ -1,8 +1,8 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-02/_date/2021-01-28/us/nsn/mohican/council/resolutions/1995/1551-95">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
-    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
-  <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1551-95.pdf"/>
+  <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1551-95.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/1995/1551-95"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 1551-95 — Stockbridge-Munsee Bill Of Rights</dcterms:title>
@@ -11,6 +11,7 @@
     <rdfs:label xml:lang="en">[2023-02-23-02/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1551-95</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-11-07</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-07-18</oll:dateEffective>
+    <oll:history>Adopted the Mohican Judiciary Act containing revised Court Code, revised General Citation Ordinance, and the Stockbridge-Munsee Bill of Rights. Mohican Judiciary Act forwarded to BIA for their review and approval on December 15, 1995. Comments from BIA on July 5, 1996.</oll:history>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
     <oll:number>1551-95</oll:number>
     </rdf:Description>

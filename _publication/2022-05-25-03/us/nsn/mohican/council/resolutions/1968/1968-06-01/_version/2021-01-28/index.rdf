@@ -2,7 +2,7 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-05-25-03/_date/2021-01-28/us/nsn/mohican/council/resolutions/1968/1968-06-01">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-25</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
-    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1968/adopted/1968-06-01.pdf"/>
+  <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1968/adopted/1968-06-01.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-05-25-03/us/nsn/mohican/council/resolutions/1968/1968-06-01"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 1968-06-01 — Membership</dcterms:title>
@@ -10,7 +10,7 @@
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2022-05-25-03/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1968-06-01</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1968-06-01</oll:dateAdopted>
-  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-05-25-03"/>
     <oll:number>1968-06-01</oll:number>
     </rdf:Description>
 </rdf:RDF>

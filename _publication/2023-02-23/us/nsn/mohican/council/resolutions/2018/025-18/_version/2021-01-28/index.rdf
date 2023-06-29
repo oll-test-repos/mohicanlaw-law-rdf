@@ -3,7 +3,7 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2018/adopted/025-18.pdf"/>
-  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/resolutions/2018/025-18"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/resolutions/2018/025-18"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 025-18 — Tribal Court Code</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
@@ -12,5 +12,5 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-03-06</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23"/>
     <oll:number>025-18</oll:number>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

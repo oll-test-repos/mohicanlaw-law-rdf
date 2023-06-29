@@ -5,31 +5,35 @@
       "path": null,
       "ptag": "library",
       "cite": null,
-      "status": "Subelements changed"
+      "status": "Subelements changed",
+      "searchpath": "library"
     },
     "/us/nsn/mohican/council/resolutions": {
       "doc": null,
       "path": null,
       "ptag": "collection",
       "cite": null,
-      "status": "Subelements changed"
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions"
     },
     "/us/nsn/mohican/council/resolutions/2021": {
       "doc": null,
       "path": null,
       "ptag": "collection",
       "cite": null,
-      "status": "Subelements changed"
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2021"
     },
     "/us/nsn/mohican/council/resolutions/2021/032-21": {
       "doc": "Stockbridge-Munsee Tribal Council Res. No. 032-21",
       "path": "",
       "ptag": "document",
       "cite": "",
-      "status": "Element added"
+      "status": "Element added",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2021|Stockbridge-Munsee Tribal Council Res. No. 032-21"
     }
   },
-  "publication_name": "publication/2023-02-23",
+  "publication_name": "2023-02-23",
   "codified_date": "2021-05-18",
   "reasons": {
     "Stockbridge-Munsee Tribal Council Res. No. 032-21": [

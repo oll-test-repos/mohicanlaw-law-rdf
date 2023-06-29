@@ -1,12 +1,12 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-01/_date/2021-05-18/us/nsn/mohican/council/resolutions/2021/032-21">
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
-  <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2021/adopted/032-21.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/2021/032-21"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2021/BIA/032-21.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-    <dcterms:title xml:lang="en">Resolution No. 032-21 — Procedures</dcterms:title>
+  <dcterms:title xml:lang="en">Resolution No. 032-21 — Procedures</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2023-02-23-01/2021-05-18]: Stockbridge-Munsee Tribal Council Res. No. 032-21</rdfs:label>

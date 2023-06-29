@@ -11,7 +11,7 @@
     <rdfs:label xml:lang="en">[2023-02-23-01/2022-08-04]: Stockbridge-Munsee Tribal Council Res. No. 042-21</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-08-04</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-04</oll:dateEffective>
-  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>
-    <oll:number>042-21</oll:number>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>
+  <oll:number>042-21</oll:number>
     </rdf:Description>
 </rdf:RDF>

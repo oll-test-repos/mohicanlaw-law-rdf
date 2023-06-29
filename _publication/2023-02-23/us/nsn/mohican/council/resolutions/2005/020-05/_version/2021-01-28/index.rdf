@@ -10,6 +10,6 @@
     <rdfs:label xml:lang="en">[2023-02-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 020-05</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-04-05</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23"/>
-    <oll:number>020-05</oll:number>
-  </rdf:Description>
+  <oll:number>020-05</oll:number>
+    </rdf:Description>
 </rdf:RDF>

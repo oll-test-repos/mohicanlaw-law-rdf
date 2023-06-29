@@ -7,8 +7,8 @@
     <dcterms:title xml:lang="en">Resolution No. 1316 — Public Health And Safety</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-  <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1316</rdfs:label>
-    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-05-22</oll:dateAdopted>
+    <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1316</rdfs:label>
+  <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1992-05-22</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>1316</oll:number>
     </rdf:Description>

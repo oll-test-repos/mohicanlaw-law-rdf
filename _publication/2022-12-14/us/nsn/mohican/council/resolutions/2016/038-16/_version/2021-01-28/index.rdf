@@ -12,6 +12,7 @@
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 038-16</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-03-15</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-08-03</oll:dateEffective>
+    <oll:history>The Tribal Council reviewed comments received on the posting. Proposed revisions were posted for additional comment on January 19, 2016. On March 15, 2016, the Tribal Council, by Resolution No. 038-16, repealed the existing </oll:history>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
     <oll:number>038-16</oll:number>
     </rdf:Description>

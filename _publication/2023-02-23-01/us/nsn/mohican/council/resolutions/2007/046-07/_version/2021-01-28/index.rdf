@@ -3,7 +3,7 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23-01/us/nsn/mohican/council/resolutions/2007/046-07"/>
-    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 046-07 — Procedures</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
@@ -12,5 +12,5 @@
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-04-16</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-01"/>
     <oll:number>046-07</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>

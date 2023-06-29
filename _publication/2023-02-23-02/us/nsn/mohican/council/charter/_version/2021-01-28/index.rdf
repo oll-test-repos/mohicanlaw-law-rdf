@@ -31,9 +31,9 @@ ARTICLE XIX — AMENDMENTS
 </dcterms:tableOfContents>
     <dcterms:title xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
-  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2023-02-23-02/2021-01-28]: Stockbridge-Munsee Federal Corporate Charter</rdfs:label>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-06-21</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

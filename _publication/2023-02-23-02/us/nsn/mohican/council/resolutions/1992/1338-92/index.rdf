@@ -2,6 +2,6 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2023-02-23-02/us/nsn/mohican/council/resolutions/1992/1338-92">
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1992/1338-92"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
-  </rdf:Description>
+  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23-02"/>
+    </rdf:Description>
 </rdf:RDF>

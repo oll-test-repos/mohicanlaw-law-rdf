@@ -25,8 +25,8 @@ Attachments
 </dcterms:tableOfContents>
     <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Code.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
-  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
-    <rdfs:label xml:lang="en">[2023-02-23/2021-04-06]: Stockbridge-Munsee Tribal Code</rdfs:label>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+  <rdfs:label xml:lang="en">[2023-02-23/2021-04-06]: Stockbridge-Munsee Tribal Code</rdfs:label>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-04-06</oll:dateCurrentThrough>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2023-02-23"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/resolutions/2021/026-21"/>

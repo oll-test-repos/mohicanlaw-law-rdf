@@ -2,6 +2,6 @@
   <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-12-14/us/nsn/mohican/council/resolutions/1974/0506">
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1974/0506"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-  <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
-    </rdf:Description>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
+  </rdf:Description>
 </rdf:RDF>

@@ -3,8 +3,8 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-23</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/adopted/charter.pdf"/>
-  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/charter/"/>
-    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/PL_106-216.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2023-02-23/us/nsn/mohican/council/charter/"/>
+  <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/PL_106-216.pdf"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1533-95.pdf"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1996/adopted/047-96.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>

@@ -11,11 +11,11 @@
 CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY(§§ 1 – 4)
 BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY(§§ 1 – 5)
 </dcterms:tableOfContents>
-    <dcterms:title xml:lang="en">Constitution and By-Laws of the Stockbridge-Munsee Community</dcterms:title>
+  <dcterms:title xml:lang="en">Constitution and By-Laws of the Stockbridge-Munsee Community</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2022-12-14/2021-01-28]: Stockbridge-Munsee Constitution and By-laws</rdfs:label>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-18</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-12-14"/>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>
