@@ -1,0 +1,204 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-15</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/us/nsn/mohican/council/adopted/charter.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2024-07-15/us/nsn/mohican/council/charter"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/us/nsn/mohican/council/PL_106-216.pdf"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/us/nsn/mohican/resolutions/1995/adopted/1533-95.pdf"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/us/nsn/mohican/resolutions/1996/adopted/047-96.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+ARTICLE I — CORPORATE IDENTITY AND STATUS
+ARTICLE II — PRINCIPAL OFFICE
+ARTICLE III — OWNERSHIP OF THE CORPORATION
+ARTICLE IV — PERIOD OF DURATION
+ARTICLE V — CORPORATION PURPOSES
+ARTICLE VI — CORPORATION POWERS
+ARTICLE VII — LIMITATIONS ON CORPORATE POWERS
+ARTICLE VIII — SHAREHOLDER ACTION
+ARTICLE IX — BOARD OF DIRECTORS MEMBERSHIP, QUALIFICATIONS, TERMS, REMOVAL AND VACANCIES
+ARTICLE X — AUTHORITY OF THE BOARD OF DIRECTORS
+ARTICLE XI — DISQUALIFICATION OF OFFICERS OR DIRECTORS
+ARTICLE XII — MEETINGS OF THE BOARD OF DIRECTORS
+ARTICLE XIII — EXECUTIVE AND OTHER COMMITTEES
+ARTICLE XIV — OFFICERS
+ARTICLE XV — INDEMNIFICATION
+ARTICLE XVI — DIVIDEND PAYMENTS
+ARTICLE XVII — FUNDS AND ACCOUNTING
+ARTICLE XVIII — SOVEREIGN IMMUNITY
+ARTICLE XIX — AMENDMENTS
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-07-15/2021-01-28]: Stockbridge-Munsee Federal Corporate Charter</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-06-21</oll:dateEffective>
+    <oll:docId>Stockbridge-Munsee Federal Corporate Charter</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2024-07-15"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#I">
+    <oll:cite xml:lang="en">ARTICLE I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#II">
+    <oll:cite xml:lang="en">ARTICLE II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#III">
+    <oll:cite xml:lang="en">ARTICLE III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#IV">
+    <oll:cite xml:lang="en">ARTICLE IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#IX">
+    <oll:cite xml:lang="en">ARTICLE IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#V">
+    <oll:cite xml:lang="en">ARTICLE V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#VI">
+    <oll:cite xml:lang="en">ARTICLE VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#VII">
+    <oll:cite xml:lang="en">ARTICLE VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#VIII">
+    <oll:cite xml:lang="en">ARTICLE VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#X">
+    <oll:cite xml:lang="en">ARTICLE X</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|X|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#X</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XI">
+    <oll:cite xml:lang="en">ARTICLE XI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XII">
+    <oll:cite xml:lang="en">ARTICLE XII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XIII">
+    <oll:cite xml:lang="en">ARTICLE XIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XIV">
+    <oll:cite xml:lang="en">ARTICLE XIV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XIV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XIV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XIX">
+    <oll:cite xml:lang="en">ARTICLE XIX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XIX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XIX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XV">
+    <oll:cite xml:lang="en">ARTICLE XV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XVI">
+    <oll:cite xml:lang="en">ARTICLE XVI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XVI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XVI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XVII">
+    <oll:cite xml:lang="en">ARTICLE XVII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XVII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XVII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XVIII">
+    <oll:cite xml:lang="en">ARTICLE XVIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Federal Corporate Charter|XVIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/charter#XVIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter/_changes">
+    <rdf:_10 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#VIII"/>
+    <rdf:_11 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#X"/>
+    <rdf:_12 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XI"/>
+    <rdf:_13 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XII"/>
+    <rdf:_14 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XIII"/>
+    <rdf:_15 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XIV"/>
+    <rdf:_16 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XIX"/>
+    <rdf:_17 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XV"/>
+    <rdf:_18 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XVI"/>
+    <rdf:_19 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XVII"/>
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter"/>
+    <rdf:_20 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#XVIII"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#I"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#II"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#III"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#IV"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#IX"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#V"/>
+    <rdf:_8 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#VI"/>
+    <rdf:_9 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/charter#VII"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

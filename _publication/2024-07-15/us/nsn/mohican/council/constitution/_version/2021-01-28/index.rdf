@@ -1,0 +1,338 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-15</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/us/nsn/mohican/council/adopted/const.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2024-07-15/us/nsn/mohican/council/constitution"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/us/nsn/mohican/council/amendments/amendment_I.pdf"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/constitution/us/nsn/mohican/council/notices/election_notice_1995.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY
+BY LAWS OF THE STOCKBRIDGE MUNSEE COMMUNITY
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Constitution and By-Laws of the Stockbridge-Munsee Community</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-07-15/2021-01-28]: Stockbridge-Munsee Constitution and By-laws</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1937-11-18</oll:dateEffective>
+    <oll:docId>Stockbridge-Munsee Constitution and By-laws</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2024-07-15"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws">
+    <oll:cite xml:lang="en">bylaws</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I">
+    <oll:cite xml:lang="en">ARTICLE I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||I|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/I/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||I|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/I/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||I|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/I/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||I|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/I/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||I|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/I/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/II">
+    <oll:cite xml:lang="en">ARTICLE II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/III">
+    <oll:cite xml:lang="en">ARTICLE III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/IV">
+    <oll:cite xml:lang="en">ARTICLE IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#bylaws/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const">
+    <oll:cite xml:lang="en">const</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/I">
+    <oll:cite xml:lang="en">ARTICLE I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/II">
+    <oll:cite xml:lang="en">ARTICLE II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III">
+    <oll:cite xml:lang="en">ARTICLE III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||III|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/III/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||III|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/III/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||III|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/III/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||III|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/III/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV">
+    <oll:cite xml:lang="en">ARTICLE IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/IV/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/IV/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/IV/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/IV/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/IV/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||IV|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/IV/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V">
+    <oll:cite xml:lang="en">ARTICLE V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||V|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/V/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||V|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/V/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||V|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/V/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||V|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/V/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VI">
+    <oll:cite xml:lang="en">ARTICLE VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII">
+    <oll:cite xml:lang="en">ARTICLE VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||VII|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/VII/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||VII|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/VII/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||VII|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/VII/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||VII|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/VII/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VIII">
+    <oll:cite xml:lang="en">ARTICLE VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws||VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/preamble">
+    <oll:cite xml:lang="en">preamble</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Constitution and By-laws|||</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/constitution#const/preamble</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution/_changes">
+    <rdf:_10 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/III"/>
+    <rdf:_11 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/IV"/>
+    <rdf:_12 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const"/>
+    <rdf:_13 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/I"/>
+    <rdf:_14 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/II"/>
+    <rdf:_15 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III"/>
+    <rdf:_16 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/1"/>
+    <rdf:_17 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/2"/>
+    <rdf:_18 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/3"/>
+    <rdf:_19 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/III/4"/>
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution"/>
+    <rdf:_20 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV"/>
+    <rdf:_21 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/1"/>
+    <rdf:_22 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/2"/>
+    <rdf:_23 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/3"/>
+    <rdf:_24 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/4"/>
+    <rdf:_25 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/5"/>
+    <rdf:_26 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/IV/6"/>
+    <rdf:_27 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V"/>
+    <rdf:_28 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/1"/>
+    <rdf:_29 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/2"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws"/>
+    <rdf:_30 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/3"/>
+    <rdf:_31 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/V/4"/>
+    <rdf:_32 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VI"/>
+    <rdf:_33 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII"/>
+    <rdf:_34 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/1"/>
+    <rdf:_35 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/2"/>
+    <rdf:_36 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/3"/>
+    <rdf:_37 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VII/4"/>
+    <rdf:_38 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/VIII"/>
+    <rdf:_39 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#const/preamble"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/1"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/2"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/3"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/4"/>
+    <rdf:_8 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/I/5"/>
+    <rdf:_9 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2021-01-28/us/nsn/mohican/council/constitution#bylaws/II"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
