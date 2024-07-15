@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|ADM.01",
+      "ptag": "container",
+      "cite": "Chapter ADM.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ADM.01",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ADM|ADM.01|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|ADM.01.08",
+      "ptag": "section",
+      "cite": "Section ADM.01.08",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ADM.01.08",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ADM|ADM.01|ADM.01.08|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 032-21",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/mohican/council/resolutions/2021/032-21",
+      "doc_mpath": "Stockbridge-Munsee Tribal Council Res. No. 032-21|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/council/resolutions|2021|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-07-15",
+  "codified_date": "2021-05-27",
+  "reasons": {
+    "Stockbridge-Munsee Tribal Council Res. No. 032-21": [
+      "effective"
+    ]
+  }
+}
