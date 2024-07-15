@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2024-01-02/us/nsn/mohican/council/resolutions/2024/009-24">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-15</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2024/009-24/us/nsn/mohican/council/resolutions/2024/adopted/009-24.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2024-07-15/us/nsn/mohican/council/resolutions/2024/009-24"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 009-24 — Healing to Wellness Court</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2024-07-15/2024-01-02]: Stockbridge-Munsee Tribal Council Res. No. 009-24</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-01-02</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-02</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-02</oll:dateEffective>
+    <oll:docId>Stockbridge-Munsee Tribal Council Res. No. 009-24</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Council Res. No. 009-24|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2024-01-02/us/nsn/mohican/council/resolutions/2024/009-24/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2024-07-15"/>
+    <oll:number>009-24</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/resolutions/2024/009-24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-07-15/_date/2024-01-02/us/nsn/mohican/council/resolutions/2024/009-24/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2024-07-15/_date/2024-01-02/us/nsn/mohican/council/resolutions/2024/009-24"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
